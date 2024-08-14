@@ -2,14 +2,7 @@
 
 | Juan David Soto
 
-#### Install dependencies
-
-```bash
-yarn
-```
-
 #### Run project
 
-```bash
-yarn dev
-```
+1. With **yarn**: `yarn` and `yarn dev`
+1. With **npm**: `npm install` and `npm run dev`

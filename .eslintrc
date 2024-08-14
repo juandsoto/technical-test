@@ -41,6 +41,7 @@
     "react/no-unstable-nested-components": "off",
     "react/react-in-jsx-scope": "off",
     "semi": "off",
-    "react-hooks/exhaustive-deps": "off"
+    "react-hooks/exhaustive-deps": "off",
+    "react/display-name": "off"
   }
 }
